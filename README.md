@@ -16,7 +16,7 @@
 <div>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMist23&hide_title=true&bg_color=00000000&text_color=7D8590&border_color=30363D">
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference))" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMist23">
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference))" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMist23&hide_title=true">
     <img alt="Top Languages Stats Image">
 </picture>
 
