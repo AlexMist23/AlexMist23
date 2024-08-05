@@ -1,10 +1,13 @@
+
 ### Hi there, I'm Aleksander Misterkiewicz!
 - I’m currently learning Next.js and Responsive Design
 - Open to collaborations and job opportunities.
-- How to reach me:
-    [LinkedIn](https://www.linkedin.com/in/aleksandermst/)
-    aleksander.misterkiewicz@outlook.com
+    
+### Contact
+- Linkedin: https://www.linkedin.com/in/aleksandermst
+- e-mial: aleksander.misterkiewicz@outlook.com
 
+  
 ### Some of my skills and tools:
 - Languages: TypeScript, Javascript, Python
 - Frameworks: React, Node.js, Next.js, Django, Flask
