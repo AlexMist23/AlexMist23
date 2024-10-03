@@ -1,9 +1,9 @@
 
 ### Hi there, I'm Aleksander Misterkiewicz!
-- I’m currently learning Next.js and Responsive Design
 - Open to collaborations and job opportunities.
     
 ### Contact
+- Website: https://misterkiewicz-aleksander.vercel.app
 - Linkedin: https://www.linkedin.com/in/aleksandermst
 - e-mial: aleksander.misterkiewicz@outlook.com
 
