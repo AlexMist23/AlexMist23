@@ -10,9 +10,9 @@ Welcome to my GitHub profile! I'm a passionate software developer focusing on bu
 
 
 ## 📫 How to Reach Me
-- **Email**: your-email@example.com
-- **LinkedIn**: Your LinkedIn Profile
-- **Portfolio**: misterkiewicz-aleksander.vercel.app
+- **Email**: [aleksander.misterkiewicz@outlook.com](mailto:aleksander.misterkiewicz@outlook.com)
+- **LinkedIn**: [linkedin.com/in/aleksandermst](https://www.linkedin.com/in/aleksandermst/)
+- **Portfolio**: [misterkiewicz-aleksander.vercel.app](misterkiewicz-aleksander.vercel.app)
 
 Thanks for visiting my profile! Feel free to check out my repositories and contact me if you'd like to collaborate.
 
